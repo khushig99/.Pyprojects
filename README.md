@@ -28,6 +28,11 @@ Here are some of the Python projects included in this repository:
    - Its is project, which is useful for real world calculations. it can take n numbers of input and can provide you the calculated value within seconds.
 
 
+3. **Weather App:**
+   - This is a Weather app, helps in getting the weather information, by using the API that connects the database of a server. And then provide us the weather condition of    required city. In this app, i have used a Python 'Request' module to GET the required information from the Server.
+  
+4. **KBC-Game:**
+   - A programmer always has two skills - firstly, they are fun-loving, and the other is that they never back off from experimenting. As a proficient programmer, I utilized both of these skills by developing this KBC Game. Here, you can play the KBC game and even win a prize. This is a creative approach developed by me; I believe you're going to love this project. Don't forget to give it a star, and meaningful contributions are appreciated.
 
 
 ## Learning Implementations
